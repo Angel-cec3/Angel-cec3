@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Angel-cec3
-- 👀 I’m interested in web development, machine learning & datascience.
-- 🌱 I’m currently learning ReactJS & AngularJS.
+- 👋 Hi, I’m Angel Mary Alex
+- 👀 I’m interested in web development and data science.
+- 🌱 I’m currently working as a software engineer skilled in WordPress, PHP, VueJS, and ReactJS.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me - angel2000.alex@gmail.com
 
